@@ -327,7 +327,7 @@
             "last_commit": "2026-08-19T08:20:30Z",
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7220
+            "stars": 7221
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-08-12T11:03:44Z",
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89521
+            "stars": 89529
           }
         },
         {
@@ -480,7 +480,7 @@
             "last_commit": "2024-07-30T22:02:41Z",
             "owner": "soulmachine",
             "repo": "machine-learning-cheat-sheet",
-            "stars": 8042
+            "stars": 8041
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 239123
+            "stars": 239141
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:35.598Z",
+    "last_updated": "2026-08-19T14:46:57.206Z",
     "original_repository": "visenger/awesome-mlops",
     "original_repository_id": 244620269,
     "original_repository_sha": "ef2638bd6262ca1830c7c04cc71c996e3adfc6f3",
