@@ -1,8 +1,592 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome production machine learning: State of MLOps Tools and Frameworks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144863525,
+            "language": null,
+            "last_commit": "2026-08-12T19:22:45Z",
+            "owner": "EthicalML",
+            "repo": "awesome-production-machine-learning",
+            "stars": 20853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLOps maturity assessment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631701225,
+            "language": null,
+            "last_commit": "2023-04-23T21:00:20Z",
+            "owner": "marvelousmlops",
+            "repo": "mlops_maturity_assessment",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IBM ML Operationalization Starter Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 256042783,
+            "language": null,
+            "last_commit": "2020-07-23T17:55:32Z",
+            "owner": "ibm-cloud-architecture",
+            "repo": "refarch-ml-ops",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLOps SIG Specification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231407720,
+            "language": null,
+            "last_commit": "2020-01-02T16:13:13Z",
+            "owner": "tdcox",
+            "repo": "mlops-roadmap",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "MLOps Core"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MLOps-Basics (GitHub repo)",
+          "description": "by raviraja",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 363624844,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-22T19:19:29Z",
+            "owner": "graviraja",
+            "repo": "MLOps-Basics",
+            "stars": 8909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Guide to Production Level Deep Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222780595,
+            "language": null,
+            "last_commit": "2025-06-13T01:52:26Z",
+            "owner": "alirezadir",
+            "repo": "Production-Level-Deep-Learning",
+            "stars": 4659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning in Production (references about deploying deep learning-based models in production)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131979161,
+            "language": null,
+            "last_commit": "2024-11-09T07:57:41Z",
+            "owner": "ahkarami",
+            "repo": "Deep-Learning-in-Production",
+            "stars": 4376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Software Engineering for Machine Learning (GitHub repository)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236980532,
+            "language": null,
+            "last_commit": "2024-03-26T22:53:29Z",
+            "owner": "SE-ML",
+            "repo": "awesome-seml",
+            "stars": 1366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML Engineering on Google Cloud Platform (hands-on labs and code samples)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 240943599,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-01T11:46:43Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "mlops-on-gcp",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMU 17-445/645: Software Engineering for AI-Enabled Systems (SE4AI)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170741951,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-22T16:40:47Z",
+            "owner": "ckaestne",
+            "repo": "seai",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 375484255,
+            "language": "TypeScript",
+            "last_commit": "2021-11-03T10:27:17Z",
+            "owner": "aporia-ai",
+            "repo": "mlplatform-workshop",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Software Engineering for AI/ML - An Annotated Bibliography",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237517188,
+            "language": null,
+            "last_commit": "2024-07-16T21:47:51Z",
+            "owner": "ckaestne",
+            "repo": "seaibib",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Science Lifecycle Repository Template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224039212,
+            "language": "Python",
+            "last_commit": "2020-07-02T19:14:51Z",
+            "owner": "dslp",
+            "repo": "dslp-repo-template",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reproducible ML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177880077,
+            "language": "Python",
+            "last_commit": "2019-04-24T22:36:50Z",
+            "owner": "cmawer",
+            "repo": "reproducible-model",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deployment & Explainability of Machine Learning COVID-19 Solutions at Scale with Seldon Core and Alibi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185004143,
+            "language": "HTML",
+            "last_commit": "2023-12-07T06:45:49Z",
+            "owner": "axsaucedo",
+            "repo": "seldon-core",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Template: code and pipeline definition for a machine learning project demonstrating how to automate an end to end ML/AI workflow.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185275335,
+            "language": "Python",
+            "last_commit": "2019-05-06T22:04:39Z",
+            "owner": "aronchick",
+            "repo": "MLOps-pipeline",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLSpec: A project to standardize the intercomponent schemas for a multi-stage ML Pipeline.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232533145,
+            "language": null,
+            "last_commit": "2019-08-22T20:28:05Z",
+            "owner": "visenger",
+            "repo": "MLSpec",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLOps Solutions (Azure based)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250038768,
+            "language": null,
+            "last_commit": "2020-03-24T06:45:09Z",
+            "owner": "visenger",
+            "repo": "MLOps",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Checklist for Machine Learning Projects (from Aurélien Géron,\"Hands-On Machine Learning with Scikit-Learn and TensorFlow\")",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254612713,
+            "language": null,
+            "last_commit": "2020-02-04T20:16:21Z",
+            "owner": "visenger",
+            "repo": "handson-ml",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML project template facilitating both research and production phases.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219007676,
+            "language": null,
+            "last_commit": "2019-08-05T15:50:39Z",
+            "owner": "visenger",
+            "repo": "ml-project-template",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "MLOps Articles"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Feast: An open-source Feature Store for Machine Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161133770,
+            "language": "Python",
+            "last_commit": "2026-08-19T08:20:30Z",
+            "owner": "feast-dev",
+            "repo": "feast",
+            "stars": 7220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hopsworks: Data-Intensive AI with a Feature Store",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142410331,
+            "language": "Java",
+            "last_commit": "2025-02-10T05:53:39Z",
+            "owner": "logicalclocks",
+            "repo": "hopsworks",
+            "stars": 1302
+          }
+        }
+      ],
+      "title": "MLOps: Feature Stores"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A complete picture of the modern data engineering landscape",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292293462,
+            "language": null,
+            "last_commit": "2022-01-25T21:09:00Z",
+            "owner": "datastacktv",
+            "repo": "data-engineer-roadmap",
+            "stars": 12752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome pipeline toolkits",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22013111,
+            "language": null,
+            "last_commit": "2026-08-04T07:45:32Z",
+            "owner": "pditommaso",
+            "repo": "awesome-pipeline",
+            "stars": 6619
+          }
+        }
+      ],
+      "title": "MLOps: Data Engineering (DataOps)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to Test Machine Learning Code and Systems",
+          "description": "(Accompanying code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 291571705,
+            "language": "Python",
+            "last_commit": "2022-09-21T15:29:15Z",
+            "owner": "eugeneyan",
+            "repo": "testing-ml",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to Trust Your Deep Learning Code",
+          "description": "(Accompanying code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 286773341,
+            "language": "Python",
+            "last_commit": "2020-08-19T14:56:33Z",
+            "owner": "tilman151",
+            "repo": "unittest_dl",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "MLOps: Testing, Monitoring and Maintenance"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Machine Learning for Beginners - A Curriculum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343965132,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T11:03:44Z",
+            "owner": "microsoft",
+            "repo": "ML-For-Beginners",
+            "stars": 89521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Data Science",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21515044,
+            "language": null,
+            "last_commit": "2026-08-18T10:27:04Z",
+            "owner": "academic",
+            "repo": "awesome-datascience",
+            "stars": 29839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome TensorFlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52677592,
+            "language": null,
+            "last_commit": "2026-02-08T17:13:47Z",
+            "owner": "jtoy",
+            "repo": "awesome-tensorflow",
+            "stars": 17551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine learning cheat sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9954710,
+            "language": "TeX",
+            "last_commit": "2024-07-30T22:02:41Z",
+            "owner": "soulmachine",
+            "repo": "machine-learning-cheat-sheet",
+            "stars": 8042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning and Data Science Applications in Industry",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184701688,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-04T12:55:18Z",
+            "owner": "firmai",
+            "repo": "industry-machine-learning",
+            "stars": 7485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Science Collected Resources (GitHub repository)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163244728,
+            "language": null,
+            "last_commit": "2024-08-17T07:00:25Z",
+            "owner": "tirthajyoti",
+            "repo": "Data-science-best-resources",
+            "stars": 3224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Examples of techniques for training interpretable machine learning (ML) models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125130145,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-17T22:44:43Z",
+            "owner": "jphall663",
+            "repo": "interpretable_machine_learning_with_python",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A resource list for causality in statistics, data science and physics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116258121,
+            "language": null,
+            "last_commit": "2026-08-01T04:19:00Z",
+            "owner": "msuzen",
+            "repo": "looper",
+            "stars": 267
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Book of Secret Knowledge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138393139,
+            "language": null,
+            "last_commit": "2024-11-19T14:00:38Z",
+            "owner": "trimstray",
+            "repo": "the-book-of-secret-knowledge",
+            "stars": 239123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clean Code concepts adapted for machine learning and data science.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188327293,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-28T07:00:49Z",
+            "owner": "davified",
+            "repo": "clean-code-ml",
+            "stars": 734
+          }
+        }
+      ],
+      "title": "Software Engineering"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T14:46:27.501Z",
+    "last_updated": "2026-08-19T12:43:35.598Z",
     "original_repository": "visenger/awesome-mlops",
+    "original_repository_id": 244620269,
     "original_repository_sha": "ef2638bd6262ca1830c7c04cc71c996e3adfc6f3",
     "enhanced_repository": "enhansome/enhansome-mlops",
     "enhanced_repository_description": null,
