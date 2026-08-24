@@ -70,7 +70,7 @@
 
 # MLOps Courses
 
-1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,170 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-01
+1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,171 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-01
 2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 3. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 4. [Made with ML](https://madewithml.com/#course)
@@ -504,7 +504,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,740 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
+1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,743 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
 2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,859 | 🐛 8 | 📅 2026-08-22
 3. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,552 | 🐛 34 | 📅 2026-02-08
 4. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,044 | 🐛 11 | 🌐 TeX | 📅 2024-07-30
@@ -564,7 +564,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,098 | 🐛 169 | 📅 2024-11-19
+1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,102 | 🐛 169 | 📅 2024-11-19
 2. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml) ⭐ 734 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-11-28
 3. [The Twelve Factors](https://12factor.net/)
 4. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
