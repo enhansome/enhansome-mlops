@@ -56,8 +56,8 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [MLOps.community](https://mlops.community/)
-2. [CDF Special Interest Group - MLOps](https://github.com/cdfoundation/sig-mlops) ⭐ 633 | 🐛 0 | 📅 2024-11-30
+1. [CDF Special Interest Group - MLOps](https://github.com/cdfoundation/sig-mlops) ⭐ 633 | 🐛 0 | 📅 2024-11-30
+2. [MLOps.community](https://mlops.community/)
 3. [RsqrdAI - Robust and Responsible AI](https://www.rsqrdai.org)
 4. [DataTalks.Club](https://datatalks.club/)
 5. [Synthetic Data Community](https://syntheticdata.community/)
@@ -70,7 +70,7 @@
 
 # MLOps Courses
 
-1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,160 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-01
+1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,170 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-01
 2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 3. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 4. [Made with ML](https://madewithml.com/#course)
@@ -260,7 +260,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7,225 | 🐛 398 | 🌐 Python | 📅 2026-08-22
+1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7,230 | 🐛 399 | 🌐 Python | 📅 2026-08-22
 2. [Hopsworks: Data-Intensive AI with a Feature Store](https://github.com/logicalclocks/hopsworks) ⭐ 1,303 | 🐛 16 | 🌐 Java | 📅 2025-02-10
 3. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 4. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
@@ -287,7 +287,7 @@
 <summary>Click to expand!</summary>
 
 1. [A complete picture of the modern data engineering landscape](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,749 | 🐛 30 | 📅 2022-01-25
-2. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,621 | 🐛 34 | 📅 2026-08-04
+2. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,623 | 🐛 34 | 📅 2026-08-04
 3. [The state of data quality in 2020 – O’Reilly](https://www.oreilly.com/radar/the-state-of-data-quality-in-2020/)
 4. [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
 5. [Data Preparation for Machine Learning (7-Day Mini-Course)](https://machinelearningmastery.com/data-preparation-for-machine-learning-7-day-mini-course/)
@@ -490,7 +490,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 13. [Project: Ease.ml (ETH Zürich)](https://ds3lab.inf.ethz.ch/easeml.html)
 14. [Bodywork: model-training and deployment automation](https://bodywork.readthedocs.io/en/latest/)
 15. [Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7)
-16. [Papers & tech blogs by companies sharing their work on data science & machine learning in production. By Eugen Yan](https://github.com/eugeneyan/applied-ml) ⭐ 30,073 | 🐛 8 | 📅 2024-07-18
+16. [Papers & tech blogs by companies sharing their work on data science & machine learning in production. By Eugen Yan](https://github.com/eugeneyan/applied-ml) ⭐ 30,079 | 🐛 8 | 📅 2024-07-18
 17. [How do different tech companies approach building internal ML platforms? (tweet)](https://twitter.com/EvidentlyAI/status/1420328878585913344)
 18. [Declarative Machine Learning Systems](https://dl.acm.org/doi/pdf/10.1145/3475965.3479315)
 19. [StreamING Machine Learning Models: How ING Adds Fraud Detection Models at Runtime with Apache Flink](https://www.ververica.com/blog/real-time-fraud-detection-ing-bank-apache-flink)
@@ -504,12 +504,12 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,708 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
-2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,853 | 🐛 8 | 📅 2026-08-22
-3. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,554 | 🐛 34 | 📅 2026-02-08
+1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,740 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
+2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,859 | 🐛 8 | 📅 2026-08-22
+3. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,552 | 🐛 34 | 📅 2026-02-08
 4. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,044 | 🐛 11 | 🌐 TeX | 📅 2024-07-30
 5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) ⭐ 7,484 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-10-04
-6. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources) ⭐ 3,222 | 🐛 12 | 📅 2024-08-17
+6. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources) ⭐ 3,221 | 🐛 12 | 📅 2024-08-17
 7. [Examples of techniques for training interpretable machine learning (ML) models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.](https://github.com/jphall663/interpretable_machine_learning_with_python) ⭐ 680 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-06-17
 8. [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper/blob/master/looper.md) ⭐ 267 | 🐛 1 | 📅 2026-08-01
 9. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
@@ -564,7 +564,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,953 | 🐛 167 | 📅 2024-11-19
+1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,098 | 🐛 169 | 📅 2024-11-19
 2. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml) ⭐ 734 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-11-28
 3. [The Twelve Factors](https://12factor.net/)
 4. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
@@ -609,43 +609,43 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
-2. [Book: "The AI Organization" by David Carmona](https://learning.oreilly.com/library/view/the-ai-organization/9781492057369/)
-3. [Book: "Succeeding with AI". 2020. By Veljko Krunic. Manning Publications](https://learning.oreilly.com/library/view/succeeding-with-ai/9781617296932/)
-4. [A list of articles about AI and the economy](https://www.predictionmachines.ai/articles)
-5. [Gartner AI Trends 2019](https://blogs.gartner.com/smarterwithgartner/files/2019/08/CTMKT_736691_Hype_Cycle_for_AI_2019.png)
-6. [Global AI Survey: AI proves its worth, but few scale impact](https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact)
-7. [Getting started with AI? Start here! Everything you need to know to dive into your project](https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
-8. [11 questions to ask before starting a successful Machine Learning project](https://tryolabs.com/blog/2019/02/13/11-questions-to-ask-before-starting-a-successful-machine-learning-project/)
-9. [What AI still can’t do](https://www.technologyreview.com/s/615189/what-ai-still-cant-do/)
-10. [Demystifying AI Part 4: What is an AI Canvas and how do you use it?](https://www.wearebrain.com/blog/ai-data-science/what-is-an-ai-canvas/)
-11. [A Data Science Workflow Canvas to Kickstart Your Projects](https://towardsdatascience.com/a-data-science-workflow-canvas-to-kickstart-your-projects-db62556be4d0)
-12. [Is your AI project a nonstarter? Here’s a reality check(list) to help you avoid the pain of learning the hard way](https://medium.com/hackernoon/ai-reality-checklist-be34e2fdab9)
-13. [What is THE main reason most ML projects fail?](https://towardsdatascience.com/what-is-the-main-reason-most-ml-projects-fail-515d409a161f)
-14. [Designing great data products. The Drivetrain Approach: A four-step process for building data products.](https://www.oreilly.com/radar/drivetrain-approach-data-products/)
-15. [The New Business of AI (and How It’s Different From Traditional Software)](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/)
-16. [The idea maze for AI startups](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze)
-17. [The Enterprise AI Challenge: Common Misconceptions](https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/#37ca1e5c5696)
-18. [Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology](https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/#151e6711180e)
-19. [Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI](https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/#7f618ff97ace)
-20. [Three Principles for Designing ML-Powered Products](https://spotify.design/articles/2019-12-10/three-principles-for-designing-ml-powered-products/)
-21. [A Step-by-Step Guide to Machine Learning Problem Framing](https://medium.com/thelaunchpad/a-step-by-step-guide-to-machine-learning-problem-framing-6fc17126b981)
-22. [AI adoption in the enterprise 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
-23. [How Adopting MLOps can Help Companies With ML Culture?](https://www.analyticsinsight.net/adopting-mlops-can-help-companies-ml-culture/)
-24. [Weaving AI into Your Organization](https://medium.com/firmai/weaving-ai-into-your-organization-2d9643da50e1)
-25. [What to Do When AI Fails](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
-26. [Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
-27. [Structured Approach for Identifying AI Use Cases](https://towardsdatascience.com/proven-structured-approach-for-identifying-ai-use-cases-b876d8d00e5)
-28. [Book: "Machine Learning for Business" by Doug Hudgeon, Richard Nichol, O'reilly](https://learning.oreilly.com/library/view/machine-learning-for/9781617295836/)
-29. [Why Commercial Artificial Intelligence Products Do Not Scale (FemTech)](https://www.presagen.com/why-commercial-artificial-intelligence-products-do-not-scale)
-30. [Google Cloud’s AI Adoption Framework (White Paper)](https://services.google.com/fh/files/misc/ai_adoption_framework_whitepaper.pdf)
-31. [Data Science Project Management](http://www.datascience-pm.com/)
-32. [Book: "Competing in the Age of AI" by Marco Iansiti, Karim R. Lakhani. Harvard Business Review Press. 2020](https://learning.oreilly.com/library/view/competing-in-the/9781633697638/)
-33. [The Three Questions about AI that Startups Need to Ask. The first is: Are you sure you need AI?](https://towardsdatascience.com/google-expert-tips-for-artificial-intelligence-startups-three-questions-about-ai-that-startups-need-to-ask-308924cb5324)
-34. [Taming the Tail: Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
-35. [Managing the Risks of Adopting AI Engineering](https://insights.sei.cmu.edu/sei_blog/2020/08/managing-the-risks-of-adopting-ai-engineering.html)
-36. [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
-37. [Collection of articles listing reasons why data science projects fail](https://github.com/xLaszlo/datascience-fails) ⭐ 462 | 🐛 5 | 📅 2021-03-14
+1. [Collection of articles listing reasons why data science projects fail](https://github.com/xLaszlo/datascience-fails) ⭐ 462 | 🐛 5 | 📅 2021-03-14
+2. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
+3. [Book: "The AI Organization" by David Carmona](https://learning.oreilly.com/library/view/the-ai-organization/9781492057369/)
+4. [Book: "Succeeding with AI". 2020. By Veljko Krunic. Manning Publications](https://learning.oreilly.com/library/view/succeeding-with-ai/9781617296932/)
+5. [A list of articles about AI and the economy](https://www.predictionmachines.ai/articles)
+6. [Gartner AI Trends 2019](https://blogs.gartner.com/smarterwithgartner/files/2019/08/CTMKT_736691_Hype_Cycle_for_AI_2019.png)
+7. [Global AI Survey: AI proves its worth, but few scale impact](https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact)
+8. [Getting started with AI? Start here! Everything you need to know to dive into your project](https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
+9. [11 questions to ask before starting a successful Machine Learning project](https://tryolabs.com/blog/2019/02/13/11-questions-to-ask-before-starting-a-successful-machine-learning-project/)
+10. [What AI still can’t do](https://www.technologyreview.com/s/615189/what-ai-still-cant-do/)
+11. [Demystifying AI Part 4: What is an AI Canvas and how do you use it?](https://www.wearebrain.com/blog/ai-data-science/what-is-an-ai-canvas/)
+12. [A Data Science Workflow Canvas to Kickstart Your Projects](https://towardsdatascience.com/a-data-science-workflow-canvas-to-kickstart-your-projects-db62556be4d0)
+13. [Is your AI project a nonstarter? Here’s a reality check(list) to help you avoid the pain of learning the hard way](https://medium.com/hackernoon/ai-reality-checklist-be34e2fdab9)
+14. [What is THE main reason most ML projects fail?](https://towardsdatascience.com/what-is-the-main-reason-most-ml-projects-fail-515d409a161f)
+15. [Designing great data products. The Drivetrain Approach: A four-step process for building data products.](https://www.oreilly.com/radar/drivetrain-approach-data-products/)
+16. [The New Business of AI (and How It’s Different From Traditional Software)](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/)
+17. [The idea maze for AI startups](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze)
+18. [The Enterprise AI Challenge: Common Misconceptions](https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/#37ca1e5c5696)
+19. [Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology](https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/#151e6711180e)
+20. [Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI](https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/#7f618ff97ace)
+21. [Three Principles for Designing ML-Powered Products](https://spotify.design/articles/2019-12-10/three-principles-for-designing-ml-powered-products/)
+22. [A Step-by-Step Guide to Machine Learning Problem Framing](https://medium.com/thelaunchpad/a-step-by-step-guide-to-machine-learning-problem-framing-6fc17126b981)
+23. [AI adoption in the enterprise 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
+24. [How Adopting MLOps can Help Companies With ML Culture?](https://www.analyticsinsight.net/adopting-mlops-can-help-companies-ml-culture/)
+25. [Weaving AI into Your Organization](https://medium.com/firmai/weaving-ai-into-your-organization-2d9643da50e1)
+26. [What to Do When AI Fails](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
+27. [Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
+28. [Structured Approach for Identifying AI Use Cases](https://towardsdatascience.com/proven-structured-approach-for-identifying-ai-use-cases-b876d8d00e5)
+29. [Book: "Machine Learning for Business" by Doug Hudgeon, Richard Nichol, O'reilly](https://learning.oreilly.com/library/view/machine-learning-for/9781617295836/)
+30. [Why Commercial Artificial Intelligence Products Do Not Scale (FemTech)](https://www.presagen.com/why-commercial-artificial-intelligence-products-do-not-scale)
+31. [Google Cloud’s AI Adoption Framework (White Paper)](https://services.google.com/fh/files/misc/ai_adoption_framework_whitepaper.pdf)
+32. [Data Science Project Management](http://www.datascience-pm.com/)
+33. [Book: "Competing in the Age of AI" by Marco Iansiti, Karim R. Lakhani. Harvard Business Review Press. 2020](https://learning.oreilly.com/library/view/competing-in-the/9781633697638/)
+34. [The Three Questions about AI that Startups Need to Ask. The first is: Are you sure you need AI?](https://towardsdatascience.com/google-expert-tips-for-artificial-intelligence-startups-three-questions-about-ai-that-startups-need-to-ask-308924cb5324)
+35. [Taming the Tail: Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
+36. [Managing the Risks of Adopting AI Engineering](https://insights.sei.cmu.edu/sei_blog/2020/08/managing-the-risks-of-adopting-ai-engineering.html)
+37. [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
 38. [How to Choose Your First AI Project by Andrew Ng](https://hbr.org/2019/02/how-to-choose-your-first-ai-project)
 39. [How to Set AI Goals](https://www.oreilly.com/radar/how-to-set-ai-goals/)
 40. [Expanding AI's Impact With Organizational Learning](https://sloanreview.mit.edu/projects/expanding-ais-impact-with-organizational-learning/)
@@ -668,8 +668,8 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 <details>
 <summary>Click to expand!</summary>
 
-1. [Scaling An ML Team (0–10 People)](https://medium.com/aquarium-learning/scaling-an-ml-team-0-10-people-ae024f3a89f3)
-2. [The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles.](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04
+1. [The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles.](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04
+2. [Scaling An ML Team (0–10 People)](https://medium.com/aquarium-learning/scaling-an-ml-team-0-10-people-ae024f3a89f3)
 3. [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 4. [Models for integrating data science teams within companies A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
 5. [How to Write Better with The Why, What, How Framework. How to write design documents for data science/machine learning projects? (by Eugene Yan)](https://eugeneyan.com/writing/writing-docs-why-what-how/)
@@ -725,4 +725,4 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
