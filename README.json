@@ -15,7 +15,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20868
+            "stars": 20867
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 419662458,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-01T09:29:53Z",
+            "last_commit": "2026-08-25T08:24:06Z",
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15175
+            "stars": 15180
           }
         }
       ],
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-25T01:36:05Z",
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7230
+            "stars": 7231
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-20T01:11:33Z",
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89763
+            "stars": 89786
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29858
+            "stars": 29861
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2024-07-30T22:02:41Z",
             "owner": "soulmachine",
             "repo": "machine-learning-cheat-sheet",
-            "stars": 8044
+            "stars": 8046
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2024-10-04T12:55:18Z",
             "owner": "firmai",
             "repo": "industry-machine-learning",
-            "stars": 7484
+            "stars": 7485
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240215
+            "stars": 240281
           }
         },
         {
@@ -668,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:44:30.217Z",
+    "last_updated": "2026-08-25T14:57:48.335Z",
     "original_repository": "visenger/awesome-mlops",
     "original_repository_id": 244620269,
     "original_repository_sha": "ef2638bd6262ca1830c7c04cc71c996e3adfc6f3",
