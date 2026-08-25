@@ -15,7 +15,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20864
+            "stars": 20868
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-01T09:29:53Z",
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15171
+            "stars": 15175
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2025-06-13T01:52:26Z",
             "owner": "alirezadir",
             "repo": "Production-Level-Deep-Learning",
-            "stars": 4659
+            "stars": 4658
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 161133770,
             "language": "Python",
-            "last_commit": "2026-08-22T17:50:29Z",
+            "last_commit": "2026-08-25T01:36:05Z",
             "owner": "feast-dev",
             "repo": "feast",
             "stars": 7230
@@ -405,7 +405,7 @@
             "last_commit": "2022-01-25T21:09:00Z",
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12749
+            "stars": 12750
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-20T01:11:33Z",
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89743
+            "stars": 89763
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29859
+            "stars": 29858
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17552
+            "stars": 17551
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240102
+            "stars": 240215
           }
         },
         {
@@ -668,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:54:14.695Z",
+    "last_updated": "2026-08-25T05:44:30.217Z",
     "original_repository": "visenger/awesome-mlops",
     "original_repository_id": 244620269,
     "original_repository_sha": "ef2638bd6262ca1830c7c04cc71c996e3adfc6f3",

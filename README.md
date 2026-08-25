@@ -30,7 +30,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,864 | 🐛 31 | 📅 2026-08-12
+1. [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,868 | 🐛 31 | 📅 2026-08-12
 2. [MLOps maturity assessment](https://github.com/marvelousmlops/mlops_maturity_assessment) ⭐ 62 | 🐛 0 | 📅 2023-04-23
 3. [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops) ⭐ 37 | 🐛 0 | 📅 2020-07-23
 4. [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md) ⭐ 16 | 🐛 0 | 📅 2020-01-02
@@ -70,7 +70,7 @@
 
 # MLOps Courses
 
-1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,171 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-01
+1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,175 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-01
 2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 3. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 4. [Made with ML](https://madewithml.com/#course)
@@ -123,7 +123,7 @@
 <summary>Click to expand!</summary>
 
 1. [MLOps-Basics (GitHub repo)](https://github.com/graviraja/MLOps-Basics) ⭐ 8,909 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2024-09-22 by [raviraja](https://github.com/graviraja)
-2. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md) ⭐ 4,659 | 🐛 7 | 📅 2025-06-13
+2. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md) ⭐ 4,658 | 🐛 7 | 📅 2025-06-13
 3. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production) ⭐ 4,375 | 🐛 7 | 📅 2024-11-09
 4. [Awesome Software Engineering for Machine Learning (GitHub repository)](https://github.com/SE-ML/awesome-seml) ⭐ 1,368 | 🐛 10 | 📅 2024-03-26
 5. [ML Engineering on Google Cloud Platform (hands-on labs and code samples)](https://github.com/GoogleCloudPlatform/mlops-on-gcp) ⚠️ Archived
@@ -260,7 +260,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7,230 | 🐛 399 | 🌐 Python | 📅 2026-08-22
+1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7,230 | 🐛 401 | 🌐 Python | 📅 2026-08-25
 2. [Hopsworks: Data-Intensive AI with a Feature Store](https://github.com/logicalclocks/hopsworks) ⭐ 1,303 | 🐛 16 | 🌐 Java | 📅 2025-02-10
 3. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 4. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
@@ -286,7 +286,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [A complete picture of the modern data engineering landscape](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,749 | 🐛 30 | 📅 2022-01-25
+1. [A complete picture of the modern data engineering landscape](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,750 | 🐛 30 | 📅 2022-01-25
 2. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,623 | 🐛 34 | 📅 2026-08-04
 3. [The state of data quality in 2020 – O’Reilly](https://www.oreilly.com/radar/the-state-of-data-quality-in-2020/)
 4. [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
@@ -504,9 +504,9 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,743 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
-2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,859 | 🐛 8 | 📅 2026-08-22
-3. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,552 | 🐛 34 | 📅 2026-02-08
+1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,763 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
+2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,858 | 🐛 8 | 📅 2026-08-22
+3. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,551 | 🐛 34 | 📅 2026-02-08
 4. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,044 | 🐛 11 | 🌐 TeX | 📅 2024-07-30
 5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) ⭐ 7,484 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-10-04
 6. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources) ⭐ 3,221 | 🐛 12 | 📅 2024-08-17
@@ -564,7 +564,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,102 | 🐛 169 | 📅 2024-11-19
+1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,215 | 🐛 169 | 📅 2024-11-19
 2. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml) ⭐ 734 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-11-28
 3. [The Twelve Factors](https://12factor.net/)
 4. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
@@ -725,4 +725,4 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
