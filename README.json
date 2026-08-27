@@ -12,10 +12,10 @@
             "archived": false,
             "id": 144863525,
             "language": null,
-            "last_commit": "2026-08-12T19:22:45Z",
+            "last_commit": "2026-08-26T05:40:57Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20867
+            "stars": 20869
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-25T08:24:06Z",
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15180
+            "stars": 15187
           }
         }
       ],
@@ -123,7 +123,7 @@
             "last_commit": "2024-09-22T19:19:29Z",
             "owner": "graviraja",
             "repo": "MLOps-Basics",
-            "stars": 8909
+            "stars": 8907
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2025-06-13T01:52:26Z",
             "owner": "alirezadir",
             "repo": "Production-Level-Deep-Learning",
-            "stars": 4658
+            "stars": 4659
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2024-11-09T07:57:41Z",
             "owner": "ahkarami",
             "repo": "Deep-Learning-in-Production",
-            "stars": 4375
+            "stars": 4376
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2024-03-26T22:53:29Z",
             "owner": "SE-ML",
             "repo": "awesome-seml",
-            "stars": 1368
+            "stars": 1367
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 161133770,
             "language": "Python",
-            "last_commit": "2026-08-25T01:36:05Z",
+            "last_commit": "2026-08-26T17:50:14Z",
             "owner": "feast-dev",
             "repo": "feast",
             "stars": 7231
@@ -405,7 +405,7 @@
             "last_commit": "2022-01-25T21:09:00Z",
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12750
+            "stars": 12749
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6623
+            "stars": 6624
           }
         }
       ],
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-20T01:11:33Z",
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89786
+            "stars": 89835
           }
         },
         {
@@ -489,10 +489,10 @@
             "archived": false,
             "id": 21515044,
             "language": null,
-            "last_commit": "2026-08-22T06:20:28Z",
+            "last_commit": "2026-08-26T17:06:22Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29861
+            "stars": 29876
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17551
+            "stars": 17550
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2024-10-04T12:55:18Z",
             "owner": "firmai",
             "repo": "industry-machine-learning",
-            "stars": 7485
+            "stars": 7486
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2026-08-01T04:19:00Z",
             "owner": "msuzen",
             "repo": "looper",
-            "stars": 267
+            "stars": 268
           }
         }
       ],
@@ -603,7 +603,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240281
+            "stars": 240601
           }
         },
         {
@@ -668,9 +668,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:57:48.335Z",
-    "original_repository": "visenger/awesome-mlops",
-    "original_repository_id": 244620269,
+    "last_updated": "2026-08-27T11:50:50.888Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 244620269,
+      "language": null,
+      "last_commit": "2024-11-21T14:45:11Z",
+      "owner": "visenger",
+      "repo": "awesome-mlops",
+      "stars": 14165
+    },
     "original_repository_sha": "ef2638bd6262ca1830c7c04cc71c996e3adfc6f3",
     "enhanced_repository": "enhansome/enhansome-mlops",
     "enhanced_repository_description": null,
