@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T05:40:57Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20870
-          }
+            "stars": 20877
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "marvelousmlops",
             "repo": "mlops_maturity_assessment",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ibm-cloud-architecture",
             "repo": "refarch-ml-ops",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "tdcox",
             "repo": "mlops-roadmap",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -82,7 +86,8 @@
             "owner": "cdfoundation",
             "repo": "sig-mlops",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -102,8 +107,9 @@
             "last_commit": "2026-08-25T08:24:06Z",
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15189
-          }
+            "stars": 15192
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "MLOps Courses"
@@ -124,7 +130,8 @@
             "owner": "graviraja",
             "repo": "MLOps-Basics",
             "stars": 8906
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -139,7 +146,8 @@
             "owner": "alirezadir",
             "repo": "Production-Level-Deep-Learning",
             "stars": 4659
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "ahkarami",
             "repo": "Deep-Learning-in-Production",
             "stars": 4376
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "SE-ML",
             "repo": "awesome-seml",
             "stars": 1367
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "mlops-on-gcp",
             "stars": 840
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "ckaestne",
             "repo": "seai",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "aporia-ai",
             "repo": "mlplatform-workshop",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "ckaestne",
             "repo": "seaibib",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "dslp",
             "repo": "dslp-repo-template",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "cmawer",
             "repo": "reproducible-model",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "axsaucedo",
             "repo": "seldon-core",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "aronchick",
             "repo": "MLOps-pipeline",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "visenger",
             "repo": "MLSpec",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "visenger",
             "repo": "MLOps",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "visenger",
             "repo": "handson-ml",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "visenger",
             "repo": "ml-project-template",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -366,11 +388,12 @@
             "archived": false,
             "id": 161133770,
             "language": "Python",
-            "last_commit": "2026-08-26T17:50:14Z",
+            "last_commit": "2026-08-28T01:11:20Z",
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7233
-          }
+            "stars": 7236
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "logicalclocks",
             "repo": "hopsworks",
             "stars": 1303
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -405,8 +429,9 @@
             "last_commit": "2022-01-25T21:09:00Z",
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12748
-          }
+            "stars": 12747
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -420,8 +445,9 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6624
-          }
+            "stars": 6625
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -442,7 +468,8 @@
             "owner": "eugeneyan",
             "repo": "testing-ml",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -457,7 +484,8 @@
             "owner": "tilman151",
             "repo": "unittest_dl",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -477,8 +505,9 @@
             "last_commit": "2026-08-20T01:11:33Z",
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89845
-          }
+            "stars": 89871
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -492,8 +521,9 @@
             "last_commit": "2026-08-27T15:40:38Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29880
-          }
+            "stars": 29886
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -507,8 +537,9 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17550
-          }
+            "stars": 17549
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -522,8 +553,9 @@
             "last_commit": "2024-07-30T22:02:41Z",
             "owner": "soulmachine",
             "repo": "machine-learning-cheat-sheet",
-            "stars": 8046
-          }
+            "stars": 8047
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -538,7 +570,8 @@
             "owner": "firmai",
             "repo": "industry-machine-learning",
             "stars": 7486
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -553,7 +586,8 @@
             "owner": "tirthajyoti",
             "repo": "Data-science-best-resources",
             "stars": 3221
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -568,7 +602,8 @@
             "owner": "jphall663",
             "repo": "interpretable_machine_learning_with_python",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -583,7 +618,8 @@
             "owner": "msuzen",
             "repo": "looper",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -603,8 +639,9 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240670
-          }
+            "stars": 240875
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         },
         {
           "node_type": "item",
@@ -619,7 +656,8 @@
             "owner": "davified",
             "repo": "clean-code-ml",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -640,7 +678,8 @@
             "owner": "xLaszlo",
             "repo": "datascience-fails",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
@@ -661,14 +700,15 @@
             "owner": "airbnb",
             "repo": "knowledge-repo",
             "stars": 5539
-          }
+          },
+          "first_seen": "2026-08-28T23:31:30.920Z"
         }
       ],
       "title": "Click to expand!"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:45:15.778Z",
+    "last_updated": "2026-08-28T23:31:30.920Z",
     "original_repository_info": {
       "archived": false,
       "id": 244620269,
@@ -676,7 +716,7 @@
       "last_commit": "2024-11-21T14:45:11Z",
       "owner": "visenger",
       "repo": "awesome-mlops",
-      "stars": 14164
+      "stars": 14167
     },
     "original_repository_sha": "ef2638bd6262ca1830c7c04cc71c996e3adfc6f3",
     "enhanced_repository": "enhansome/enhansome-mlops",
