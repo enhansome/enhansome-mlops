@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+            "homepage": "https://ethicalml.github.io/awesome-production-machine-learning",
             "id": 144863525,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-26T05:40:57Z",
+            "open_issues": 32,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20877
+            "stars": 20877,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-mining",
+              "deep-learning",
+              "explainability",
+              "interpretability",
+              "large-scale-machine-learning",
+              "large-scale-ml",
+              "machine-learning",
+              "machine-learning-operations",
+              "ml-operations",
+              "ml-ops",
+              "mlops",
+              "privacy-preserving",
+              "privacy-preserving-machine-learning",
+              "privacy-preserving-ml",
+              "production-machine-learning",
+              "production-ml",
+              "responsible-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -26,12 +51,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLOps maturity assessment",
+            "homepage": null,
             "id": 631701225,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-04-23T21:00:20Z",
+            "open_issues": 0,
             "owner": "marvelousmlops",
             "repo": "mlops_maturity_assessment",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -42,12 +72,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference architecture for machine learning operations",
+            "homepage": null,
             "id": 256042783,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-23T17:55:32Z",
+            "open_issues": 0,
             "owner": "ibm-cloud-architecture",
             "repo": "refarch-ml-ops",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -58,12 +93,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 231407720,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-02T16:13:13Z",
+            "open_issues": 0,
             "owner": "tdcox",
             "repo": "mlops-roadmap",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -80,12 +120,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CDF SIG MLOps",
+            "homepage": "https://cd.foundation",
             "id": 215415711,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-11-30T15:14:04Z",
+            "open_issues": 0,
             "owner": "cdfoundation",
             "repo": "sig-mlops",
-            "stars": 633
+            "stars": 633,
+            "topics": [
+              "cdf",
+              "cicd",
+              "devop",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "special-interest-group"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -102,12 +155,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort",
+            "homepage": "https://courses.datatalks.club/register/mlops-zoomcamp/",
             "id": 419662458,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-08-25T08:24:06Z",
+            "open_issues": 3,
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15192
+            "stars": 15192,
+            "topics": [
+              "machine-learning",
+              "mlops",
+              "model-deployment",
+              "model-monitoring",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -124,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 363624844,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-09-22T19:19:29Z",
+            "open_issues": 16,
             "owner": "graviraja",
             "repo": "MLOps-Basics",
-            "stars": 8906
+            "stars": 8906,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -140,12 +209,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guideline for building practical production-level deep learning systems to be deployed in real world applications. ",
+            "homepage": null,
             "id": 222780595,
             "language": null,
+            "license": null,
             "last_commit": "2025-06-13T01:52:26Z",
+            "open_issues": 7,
             "owner": "alirezadir",
             "repo": "Production-Level-Deep-Learning",
-            "stars": 4659
+            "stars": 4659,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "deep-learning",
+              "deployment",
+              "kubeflow",
+              "machine-learning",
+              "pipeline",
+              "practical-machine-learning",
+              "production-system",
+              "scalable-applications",
+              "system-design",
+              "tfx"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -156,12 +243,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In this repository, I will share some useful notes and references about deploying deep learning-based models in production.",
+            "homepage": null,
             "id": 131979161,
             "language": null,
+            "license": null,
             "last_commit": "2024-11-09T07:57:41Z",
+            "open_issues": 7,
             "owner": "ahkarami",
             "repo": "Deep-Learning-in-Production",
-            "stars": 4376
+            "stars": 4376,
+            "topics": [
+              "angularjs",
+              "c-plus-plus",
+              "caffe2",
+              "convert-pytorch-models",
+              "deep-learning",
+              "deep-neural-networks",
+              "flask",
+              "keras",
+              "model-serving",
+              "mxnet",
+              "production",
+              "python",
+              "pytorch",
+              "react",
+              "rest-api",
+              "serving",
+              "serving-pytorch-models",
+              "tensorflow-models",
+              "tesnorflow",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -172,12 +285,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
+            "homepage": null,
             "id": 236980532,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-03-26T22:53:29Z",
+            "open_issues": 10,
             "owner": "SE-ML",
             "repo": "awesome-seml",
-            "stars": 1367
+            "stars": 1367,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "machine-learning",
+              "ml-ops",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -188,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 240943599,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-01T11:46:43Z",
+            "open_issues": 70,
             "owner": "GoogleCloudPlatform",
             "repo": "mlops-on-gcp",
-            "stars": 840
+            "stars": 840,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -204,12 +334,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMU Lecture: Machine Learning In Production / AI Engineering / Software Engineering for AI-Enabled Systems (SE4AI)",
+            "homepage": "https://ckaestne.github.io/seai/",
             "id": 170741951,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-22T16:40:47Z",
+            "open_issues": 0,
             "owner": "ckaestne",
             "repo": "seai",
-            "stars": 453
+            "stars": 453,
+            "topics": [
+              "carnegie-mellon-university",
+              "course-materials",
+              "education",
+              "machine-learning",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -220,12 +361,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍫 Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more",
+            "homepage": "https://www.aporia.com/blog/building-an-ml-platform-from-scratch/",
             "id": 375484255,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-11-03T10:27:17Z",
+            "open_issues": 3,
             "owner": "aporia-ai",
             "repo": "mlplatform-workshop",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "devops",
+              "machine-learning",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -236,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software Engineering for AI/ML -- An Annotated Bibliography",
+            "homepage": null,
             "id": 237517188,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-07-16T21:47:51Z",
+            "open_issues": 2,
             "owner": "ckaestne",
             "repo": "seaibib",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -252,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template repository for data science lifecycle project",
+            "homepage": null,
             "id": 224039212,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-02T19:14:51Z",
+            "open_issues": 0,
             "owner": "dslp",
             "repo": "dslp-repo-template",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -268,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://cmawer.github.io/reproducible-model",
             "id": 177880077,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-04-24T22:36:50Z",
+            "open_issues": 1,
             "owner": "cmawer",
             "repo": "reproducible-model",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -284,12 +449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning Deployment for Kubernetes",
+            "homepage": "https://www.seldon.io/",
             "id": 185004143,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-07T06:45:49Z",
+            "open_issues": 24,
             "owner": "axsaucedo",
             "repo": "seldon-core",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -300,12 +470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 185275335,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-05-06T22:04:39Z",
+            "open_issues": 0,
             "owner": "aronchick",
             "repo": "MLOps-pipeline",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -316,12 +491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 232533145,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-08-22T20:28:05Z",
+            "open_issues": 0,
             "owner": "visenger",
             "repo": "MLSpec",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -332,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLOps examples",
+            "homepage": null,
             "id": 250038768,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-03-24T06:45:09Z",
+            "open_issues": 0,
             "owner": "visenger",
             "repo": "MLOps",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -348,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
+            "homepage": null,
             "id": 254612713,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-02-04T20:16:21Z",
+            "open_issues": 0,
             "owner": "visenger",
             "repo": "handson-ml",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -364,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ML project template facilitating both research and production phases.",
+            "homepage": null,
             "id": 219007676,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-05T15:50:39Z",
+            "open_issues": 0,
             "owner": "visenger",
             "repo": "ml-project-template",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -386,12 +581,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source Feature Store for AI/ML",
+            "homepage": "https://feast.dev",
             "id": 161133770,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T01:11:20Z",
+            "open_issues": 414,
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7236
+            "stars": 7237,
+            "topics": [
+              "big-data",
+              "data-engineering",
+              "data-quality",
+              "data-science",
+              "feature-store",
+              "features",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -402,12 +613,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hopsworks - Data-Intensive AI platform with a Feature Store",
+            "homepage": "https://hopsworks.ai",
             "id": 142410331,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2025-02-10T05:53:39Z",
+            "open_issues": 16,
             "owner": "logicalclocks",
             "repo": "hopsworks",
-            "stars": 1303
+            "stars": 1303,
+            "topics": [
+              "aws",
+              "azure",
+              "data-science",
+              "feature-engineering",
+              "feature-management",
+              "feature-store",
+              "gcp",
+              "governance",
+              "hopsworks",
+              "kserve",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "model-serving",
+              "pyspark",
+              "python",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -424,12 +658,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a data engineer in 2021",
+            "homepage": "https://datastack.tv",
             "id": 292293462,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-25T21:09:00Z",
+            "open_issues": 30,
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12747
+            "stars": 12747,
+            "topics": [
+              "cloud",
+              "data-engineer-roadmap",
+              "data-engineering",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -440,12 +684,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+            "homepage": null,
             "id": 22013111,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-04T07:45:32Z",
+            "open_issues": 34,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6625
+            "stars": 6625,
+            "topics": [
+              "awesome-list",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -462,12 +714,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 Minimal examples of machine learning tests for implementation, behaviour, and performance.",
+            "homepage": "https://eugeneyan.com/writing/testing-ml/",
             "id": 291571705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-21T15:29:15Z",
+            "open_issues": 1,
             "owner": "eugeneyan",
             "repo": "testing-ml",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "machine-learning",
+              "model-evaluation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -478,12 +739,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example unit tests for deep learning projects.",
+            "homepage": null,
             "id": 286773341,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-19T14:56:33Z",
+            "open_issues": 0,
             "owner": "tilman151",
             "repo": "unittest_dl",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "deep-learning",
+              "python",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -500,12 +770,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+            "homepage": null,
             "id": 343965132,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-20T01:11:33Z",
+            "open_issues": 13,
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89871
+            "stars": 89876,
+            "topics": [
+              "data-science",
+              "education",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "machinelearning",
+              "machinelearning-python",
+              "microsoft-for-beginners",
+              "ml",
+              "python",
+              "r",
+              "scikit-learn",
+              "scikit-learn-python"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -516,12 +804,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+            "homepage": null,
             "id": 21515044,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
+            "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29886
+            "stars": 29887,
+            "topics": [
+              "analytics",
+              "awesome-list",
+              "data-mining",
+              "data-science",
+              "data-scientists",
+              "data-visualization",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -532,12 +836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
+            "homepage": null,
             "id": 52677592,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-02-08T17:13:47Z",
+            "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17549
+            "stars": 17549,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -548,12 +857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Classical equations and diagrams in machine learning",
+            "homepage": "http://soulmachine.me",
             "id": 9954710,
             "language": "TeX",
+            "license": null,
             "last_commit": "2024-07-30T22:02:41Z",
+            "open_issues": 11,
             "owner": "soulmachine",
             "repo": "machine-learning-cheat-sheet",
-            "stars": 8047
+            "stars": 8047,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -564,12 +878,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)",
+            "homepage": "https://www.sov.ai/",
             "id": 184701688,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-10-04T12:55:18Z",
+            "open_issues": 3,
             "owner": "firmai",
             "repo": "industry-machine-learning",
-            "stars": 7486
+            "stars": 7486,
+            "topics": [
+              "data-science",
+              "datascience",
+              "example",
+              "firmai",
+              "jupyter-notebook",
+              "machine-learning",
+              "practical-machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -580,12 +908,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Carefully curated resource links for data science in one place",
+            "homepage": null,
             "id": 163244728,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-17T07:00:25Z",
+            "open_issues": 12,
             "owner": "tirthajyoti",
             "repo": "Data-science-best-resources",
-            "stars": 3221
+            "stars": 3221,
+            "topics": [
+              "analytics",
+              "api",
+              "artificial-intelligence",
+              "aws",
+              "cheatsheet",
+              "data-science",
+              "data-wrangling",
+              "database",
+              "deep-learning",
+              "linux",
+              "machine-learning",
+              "neural-network",
+              "online-course",
+              "python",
+              "r",
+              "reinforcement-learning",
+              "scikit-learn",
+              "sql",
+              "statistics",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -596,12 +950,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of techniques for training interpretable ML models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.",
+            "homepage": null,
             "id": 125130145,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-06-17T22:44:43Z",
+            "open_issues": 2,
             "owner": "jphall663",
             "repo": "interpretable_machine_learning_with_python",
-            "stars": 680
+            "stars": 680,
+            "topics": [
+              "accountability",
+              "data-mining",
+              "data-science",
+              "decision-tree",
+              "fairness",
+              "fatml",
+              "gradient-boosting-machine",
+              "h2o",
+              "iml",
+              "interpretability",
+              "interpretable",
+              "interpretable-ai",
+              "interpretable-machine-learning",
+              "interpretable-ml",
+              "lime",
+              "machine-learning",
+              "machine-learning-interpretability",
+              "python",
+              "transparency",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -612,12 +992,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resource list for causality in statistics, data science and physics",
+            "homepage": null,
             "id": 116258121,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-01T04:19:00Z",
+            "open_issues": 1,
             "owner": "msuzen",
             "repo": "looper",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "bayesian-inference",
+              "causal",
+              "causal-discovery",
+              "causal-impact",
+              "causal-inference",
+              "causal-machine-learning",
+              "causal-models",
+              "causal-networks",
+              "causality",
+              "causality-algorithms",
+              "causality-analysis",
+              "causation",
+              "data-science",
+              "machine-learning",
+              "meta-learning",
+              "physics",
+              "statistical-inference",
+              "statistical-mechanics",
+              "statistical-physics",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -634,12 +1040,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+            "homepage": null,
             "id": 138393139,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-11-19T14:00:38Z",
+            "open_issues": 170,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240875
+            "stars": 240931,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bsd",
+              "cheatsheets",
+              "devops",
+              "guidelines",
+              "hacking",
+              "hacks",
+              "howtos",
+              "linux",
+              "lists",
+              "manuals",
+              "one-liners",
+              "pentesters",
+              "resources",
+              "search-engines",
+              "security",
+              "security-researchers",
+              "sysops"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         },
@@ -650,12 +1081,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series 😎 https://bit.ly/2yGDyqT",
+            "homepage": null,
             "id": 188327293,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-28T07:00:49Z",
+            "open_issues": 5,
             "owner": "davified",
             "repo": "clean-code-ml",
-            "stars": 734
+            "stars": 734,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -672,12 +1108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of articles listing reasons why data science projects fail.",
+            "homepage": null,
             "id": 291528007,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-03-14T17:24:14Z",
+            "open_issues": 5,
             "owner": "xLaszlo",
             "repo": "datascience-fails",
-            "stars": 462
+            "stars": 462,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -694,12 +1135,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions.",
+            "homepage": null,
             "id": 65949398,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-04T14:59:57Z",
+            "open_issues": 137,
             "owner": "airbnb",
             "repo": "knowledge-repo",
-            "stars": 5539
+            "stars": 5539,
+            "topics": [
+              "data",
+              "data-analysis",
+              "data-science",
+              "knowledge"
+            ]
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
         }
@@ -708,15 +1159,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:30.920Z",
+    "last_updated": "2026-08-29T04:13:47.164Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of references for MLOps ",
+      "homepage": "https://ml-ops.org",
       "id": 244620269,
       "language": null,
+      "license": null,
       "last_commit": "2024-11-21T14:45:11Z",
+      "open_issues": 43,
       "owner": "visenger",
       "repo": "awesome-mlops",
-      "stars": 14167
+      "stars": 14167,
+      "topics": [
+        "ai",
+        "data-science",
+        "devops",
+        "engineering",
+        "federated-learning",
+        "machine-learning",
+        "ml",
+        "mlops",
+        "software-engineering"
+      ]
     },
     "original_repository_sha": "ef2638bd6262ca1830c7c04cc71c996e3adfc6f3",
     "enhanced_repository": "enhansome/enhansome-mlops",
