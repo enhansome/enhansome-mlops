@@ -164,7 +164,7 @@
             "open_issues": 3,
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15192,
+            "stars": 15193,
             "topics": [
               "machine-learning",
               "mlops",
@@ -590,7 +590,7 @@
             "open_issues": 414,
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7237,
+            "stars": 7239,
             "topics": [
               "big-data",
               "data-engineering",
@@ -779,7 +779,7 @@
             "open_issues": 13,
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89876,
+            "stars": 89892,
             "topics": [
               "data-science",
               "education",
@@ -813,7 +813,7 @@
             "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29887,
+            "stars": 29890,
             "topics": [
               "analytics",
               "awesome-list",
@@ -1046,10 +1046,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2024-11-19T14:00:38Z",
-            "open_issues": 170,
+            "open_issues": 171,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240931,
+            "stars": 241050,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1159,7 +1159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:47.164Z",
+    "last_updated": "2026-08-29T17:41:09.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for MLOps ",

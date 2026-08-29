@@ -70,7 +70,7 @@
 
 # MLOps Courses
 
-1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,192 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-25
+1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,193 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-25
 2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 3. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 4. [Made with ML](https://madewithml.com/#course)
@@ -260,7 +260,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7,237 | 🐛 414 | 🌐 Python | 📅 2026-08-28
+1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7,239 | 🐛 414 | 🌐 Python | 📅 2026-08-28
 2. [Hopsworks: Data-Intensive AI with a Feature Store](https://github.com/logicalclocks/hopsworks) ⭐ 1,303 | 🐛 16 | 🌐 Java | 📅 2025-02-10
 3. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 4. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
@@ -504,8 +504,8 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,876 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
-2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,887 | 🐛 8 | 📅 2026-08-27
+1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,892 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
+2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,890 | 🐛 8 | 📅 2026-08-27
 3. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,549 | 🐛 34 | 📅 2026-02-08
 4. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,047 | 🐛 11 | 🌐 TeX | 📅 2024-07-30
 5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) ⭐ 7,486 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-10-04
@@ -564,7 +564,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,931 | 🐛 170 | 📅 2024-11-19
+1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 241,050 | 🐛 171 | 📅 2024-11-19
 2. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml) ⭐ 734 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-11-28
 3. [The Twelve Factors](https://12factor.net/)
 4. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
