@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20877,
+            "stars": 20878,
             "topics": [
               "awesome",
               "awesome-list",
@@ -164,7 +164,7 @@
             "open_issues": 3,
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15193,
+            "stars": 15195,
             "topics": [
               "machine-learning",
               "mlops",
@@ -197,7 +197,7 @@
             "open_issues": 16,
             "owner": "graviraja",
             "repo": "MLOps-Basics",
-            "stars": 8906,
+            "stars": 8907,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
@@ -586,8 +586,8 @@
             "id": 161133770,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T01:11:20Z",
-            "open_issues": 414,
+            "last_commit": "2026-08-30T04:04:57Z",
+            "open_issues": 416,
             "owner": "feast-dev",
             "repo": "feast",
             "stars": 7239,
@@ -667,7 +667,7 @@
             "open_issues": 30,
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12747,
+            "stars": 12745,
             "topics": [
               "cloud",
               "data-engineer-roadmap",
@@ -693,7 +693,7 @@
             "open_issues": 34,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6625,
+            "stars": 6624,
             "topics": [
               "awesome-list",
               "workflow"
@@ -779,7 +779,7 @@
             "open_issues": 13,
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89892,
+            "stars": 89935,
             "topics": [
               "data-science",
               "education",
@@ -813,7 +813,7 @@
             "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29890,
+            "stars": 29899,
             "topics": [
               "analytics",
               "awesome-list",
@@ -845,7 +845,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17549,
+            "stars": 17550,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
@@ -866,7 +866,7 @@
             "open_issues": 11,
             "owner": "soulmachine",
             "repo": "machine-learning-cheat-sheet",
-            "stars": 8047,
+            "stars": 8049,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
@@ -917,7 +917,7 @@
             "open_issues": 12,
             "owner": "tirthajyoti",
             "repo": "Data-science-best-resources",
-            "stars": 3221,
+            "stars": 3220,
             "topics": [
               "analytics",
               "api",
@@ -1049,7 +1049,7 @@
             "open_issues": 171,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 241050,
+            "stars": 241220,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1144,7 +1144,7 @@
             "open_issues": 137,
             "owner": "airbnb",
             "repo": "knowledge-repo",
-            "stars": 5539,
+            "stars": 5538,
             "topics": [
               "data",
               "data-analysis",
@@ -1159,7 +1159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:41:09.911Z",
+    "last_updated": "2026-08-30T18:02:32.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for MLOps ",
@@ -1171,7 +1171,7 @@
       "open_issues": 43,
       "owner": "visenger",
       "repo": "awesome-mlops",
-      "stars": 14167,
+      "stars": 14168,
       "topics": [
         "ai",
         "data-science",
