@@ -16,10 +16,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-26T05:40:57Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20878,
+            "stars": 20882,
             "topics": [
               "awesome",
               "awesome-list",
@@ -164,7 +164,7 @@
             "open_issues": 3,
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15195,
+            "stars": 15197,
             "topics": [
               "machine-learning",
               "mlops",
@@ -587,10 +587,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-30T04:04:57Z",
-            "open_issues": 416,
+            "open_issues": 417,
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7239,
+            "stars": 7242,
             "topics": [
               "big-data",
               "data-engineering",
@@ -622,7 +622,7 @@
             "open_issues": 16,
             "owner": "logicalclocks",
             "repo": "hopsworks",
-            "stars": 1303,
+            "stars": 1304,
             "topics": [
               "aws",
               "azure",
@@ -667,7 +667,7 @@
             "open_issues": 30,
             "owner": "datastacktv",
             "repo": "data-engineer-roadmap",
-            "stars": 12745,
+            "stars": 12746,
             "topics": [
               "cloud",
               "data-engineer-roadmap",
@@ -779,7 +779,7 @@
             "open_issues": 13,
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89935,
+            "stars": 89988,
             "topics": [
               "data-science",
               "education",
@@ -813,7 +813,7 @@
             "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29899,
+            "stars": 29909,
             "topics": [
               "analytics",
               "awesome-list",
@@ -917,7 +917,7 @@
             "open_issues": 12,
             "owner": "tirthajyoti",
             "repo": "Data-science-best-resources",
-            "stars": 3220,
+            "stars": 3221,
             "topics": [
               "analytics",
               "api",
@@ -1049,7 +1049,7 @@
             "open_issues": 171,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 241220,
+            "stars": 241388,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1159,7 +1159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:02:32.170Z",
+    "last_updated": "2026-08-31T19:58:35.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for MLOps ",
@@ -1171,7 +1171,7 @@
       "open_issues": 43,
       "owner": "visenger",
       "repo": "awesome-mlops",
-      "stars": 14168,
+      "stars": 14175,
       "topics": [
         "ai",
         "data-science",
