@@ -30,7 +30,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,882 | 🐛 31 | 📅 2026-08-26
+1. [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,885 | 🐛 34 | 📅 2026-09-01
 2. [MLOps maturity assessment](https://github.com/marvelousmlops/mlops_maturity_assessment) ⭐ 62 | 🐛 0 | 📅 2023-04-23
 3. [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops) ⭐ 37 | 🐛 0 | 📅 2020-07-23
 4. [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md) ⭐ 16 | 🐛 0 | 📅 2020-01-02
@@ -70,7 +70,7 @@
 
 # MLOps Courses
 
-1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,197 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-25
+1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,200 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-25
 2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 3. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 4. [Made with ML](https://madewithml.com/#course)
@@ -122,8 +122,8 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [MLOps-Basics (GitHub repo)](https://github.com/graviraja/MLOps-Basics) ⭐ 8,907 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2024-09-22 by [raviraja](https://github.com/graviraja)
-2. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md) ⭐ 4,659 | 🐛 7 | 📅 2025-06-13
+1. [MLOps-Basics (GitHub repo)](https://github.com/graviraja/MLOps-Basics) ⭐ 8,908 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2024-09-22 by [raviraja](https://github.com/graviraja)
+2. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md) ⭐ 4,658 | 🐛 7 | 📅 2025-06-13
 3. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production) ⭐ 4,376 | 🐛 7 | 📅 2024-11-09
 4. [Awesome Software Engineering for Machine Learning (GitHub repository)](https://github.com/SE-ML/awesome-seml) ⭐ 1,367 | 🐛 10 | 📅 2024-03-26
 5. [ML Engineering on Google Cloud Platform (hands-on labs and code samples)](https://github.com/GoogleCloudPlatform/mlops-on-gcp) ⚠️ Archived
@@ -260,7 +260,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7,242 | 🐛 417 | 🌐 Python | 📅 2026-08-30
+1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7,242 | 🐛 422 | 🌐 Python | 📅 2026-08-30
 2. [Hopsworks: Data-Intensive AI with a Feature Store](https://github.com/logicalclocks/hopsworks) ⭐ 1,304 | 🐛 16 | 🌐 Java | 📅 2025-02-10
 3. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 4. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
@@ -286,7 +286,7 @@
 <details>
 <summary>Click to expand!</summary>
 
-1. [A complete picture of the modern data engineering landscape](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,746 | 🐛 30 | 📅 2022-01-25
+1. [A complete picture of the modern data engineering landscape](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,747 | 🐛 30 | 📅 2022-01-25
 2. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,624 | 🐛 34 | 📅 2026-08-04
 3. [The state of data quality in 2020 – O’Reilly](https://www.oreilly.com/radar/the-state-of-data-quality-in-2020/)
 4. [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
@@ -490,7 +490,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 13. [Project: Ease.ml (ETH Zürich)](https://ds3lab.inf.ethz.ch/easeml.html)
 14. [Bodywork: model-training and deployment automation](https://bodywork.readthedocs.io/en/latest/)
 15. [Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7)
-16. [Papers & tech blogs by companies sharing their work on data science & machine learning in production. By Eugen Yan](https://github.com/eugeneyan/applied-ml) ⭐ 30,102 | 🐛 8 | 📅 2024-07-18
+16. [Papers & tech blogs by companies sharing their work on data science & machine learning in production. By Eugen Yan](https://github.com/eugeneyan/applied-ml) ⭐ 30,104 | 🐛 8 | 📅 2024-07-18
 17. [How do different tech companies approach building internal ML platforms? (tweet)](https://twitter.com/EvidentlyAI/status/1420328878585913344)
 18. [Declarative Machine Learning Systems](https://dl.acm.org/doi/pdf/10.1145/3475965.3479315)
 19. [StreamING Machine Learning Models: How ING Adds Fraud Detection Models at Runtime with Apache Flink](https://www.ververica.com/blog/real-time-fraud-detection-ing-bank-apache-flink)
@@ -504,12 +504,12 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,988 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
-2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,909 | 🐛 8 | 📅 2026-08-27
-3. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,550 | 🐛 34 | 📅 2026-02-08
-4. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,049 | 🐛 11 | 🌐 TeX | 📅 2024-07-30
-5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) ⭐ 7,486 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-10-04
-6. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources) ⭐ 3,221 | 🐛 12 | 📅 2024-08-17
+1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 90,044 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20
+2. [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,909 | 🐛 10 | 📅 2026-08-27
+3. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,548 | 🐛 34 | 📅 2026-02-08
+4. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,050 | 🐛 11 | 🌐 TeX | 📅 2024-07-30
+5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) ⭐ 7,485 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-10-04
+6. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources) ⭐ 3,222 | 🐛 12 | 📅 2024-08-17
 7. [Examples of techniques for training interpretable machine learning (ML) models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.](https://github.com/jphall663/interpretable_machine_learning_with_python) ⭐ 680 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-06-17
 8. [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper/blob/master/looper.md) ⭐ 268 | 🐛 1 | 📅 2026-08-01
 9. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
@@ -564,7 +564,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <details>
 <summary>Click to expand!</summary>
 
-1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 241,388 | 🐛 171 | 📅 2024-11-19
+1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 241,535 | 🐛 170 | 📅 2024-11-19
 2. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml) ⭐ 734 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-11-28
 3. [The Twelve Factors](https://12factor.net/)
 4. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
@@ -668,7 +668,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 <details>
 <summary>Click to expand!</summary>
 
-1. [The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles.](https://github.com/airbnb/knowledge-repo) ⭐ 5,538 | 🐛 137 | 🌐 Python | 📅 2024-09-04
+1. [The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles.](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04
 2. [Scaling An ML Team (0–10 People)](https://medium.com/aquarium-learning/scaling-an-ml-team-0-10-people-ae024f3a89f3)
 3. [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 4. [Models for integrating data science teams within companies A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
@@ -725,4 +725,4 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
