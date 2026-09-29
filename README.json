@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20961,
+            "stars": 20963,
             "topics": [
               "awesome",
               "awesome-list",
@@ -164,7 +164,7 @@
             "open_issues": 3,
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15345,
+            "stars": 15350,
             "topics": [
               "machine-learning",
               "mlops",
@@ -252,7 +252,7 @@
             "open_issues": 7,
             "owner": "ahkarami",
             "repo": "Deep-Learning-in-Production",
-            "stars": 4379,
+            "stars": 4380,
             "topics": [
               "angularjs",
               "c-plus-plus",
@@ -395,7 +395,7 @@
             "open_issues": 2,
             "owner": "ckaestne",
             "repo": "seaibib",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
@@ -586,11 +586,11 @@
             "id": 161133770,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T11:14:55Z",
-            "open_issues": 451,
+            "last_commit": "2026-09-29T11:38:41Z",
+            "open_issues": 445,
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7311,
+            "stars": 7314,
             "topics": [
               "big-data",
               "data-engineering",
@@ -779,7 +779,7 @@
             "open_issues": 13,
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 91095,
+            "stars": 91133,
             "topics": [
               "data-science",
               "education",
@@ -810,10 +810,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-28T15:34:01Z",
-            "open_issues": 9,
+            "open_issues": 11,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30083,
+            "stars": 30090,
             "topics": [
               "analytics",
               "awesome-list",
@@ -845,7 +845,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17549,
+            "stars": 17546,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:30.920Z"
@@ -887,7 +887,7 @@
             "open_issues": 4,
             "owner": "firmai",
             "repo": "industry-machine-learning",
-            "stars": 7485,
+            "stars": 7486,
             "topics": [
               "data-science",
               "datascience",
@@ -917,7 +917,7 @@
             "open_issues": 12,
             "owner": "tirthajyoti",
             "repo": "Data-science-best-resources",
-            "stars": 3228,
+            "stars": 3229,
             "topics": [
               "analytics",
               "api",
@@ -1049,7 +1049,7 @@
             "open_issues": 172,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 246590,
+            "stars": 246802,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1144,7 +1144,7 @@
             "open_issues": 137,
             "owner": "airbnb",
             "repo": "knowledge-repo",
-            "stars": 5541,
+            "stars": 5540,
             "topics": [
               "data",
               "data-analysis",
@@ -1159,7 +1159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:30:53.304Z",
+    "last_updated": "2026-09-29T19:20:01.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for MLOps ",
@@ -1171,7 +1171,7 @@
       "open_issues": 47,
       "owner": "visenger",
       "repo": "awesome-mlops",
-      "stars": 14226,
+      "stars": 14227,
       "topics": [
         "ai",
         "data-science",
