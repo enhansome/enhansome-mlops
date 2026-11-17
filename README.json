@@ -21,7 +21,7 @@
                 "open_issues": 44,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 21110,
+                "stars": 21113,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -178,7 +178,7 @@
             "open_issues": 4,
             "owner": "DataTalksClub",
             "repo": "mlops-zoomcamp",
-            "stars": 15566,
+            "stars": 15571,
             "topics": [
               "machine-learning",
               "mlops",
@@ -213,7 +213,7 @@
                 "open_issues": 16,
                 "owner": "graviraja",
                 "repo": "MLOps-Basics",
-                "stars": 8922,
+                "stars": 8921,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:30.920Z"
@@ -234,7 +234,7 @@
                 "open_issues": 7,
                 "owner": "alirezadir",
                 "repo": "Production-Level-Deep-Learning",
-                "stars": 4666,
+                "stars": 4664,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -359,7 +359,7 @@
                 "open_issues": 0,
                 "owner": "ckaestne",
                 "repo": "seai",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "carnegie-mellon-university",
                   "course-materials",
@@ -609,11 +609,11 @@
                 "id": 161133770,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T12:24:53Z",
-                "open_issues": 376,
+                "last_commit": "2026-11-17T14:48:38Z",
+                "open_issues": 371,
                 "owner": "feast-dev",
                 "repo": "feast",
-                "stars": 7365,
+                "stars": 7366,
                 "topics": [
                   "big-data",
                   "data-engineering",
@@ -697,7 +697,7 @@
                 "open_issues": 29,
                 "owner": "datastacktv",
                 "repo": "data-engineer-roadmap",
-                "stars": 12759,
+                "stars": 12761,
                 "topics": [
                   "cloud",
                   "data-engineer-roadmap",
@@ -823,7 +823,7 @@
                 "open_issues": 27,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 92254,
+                "stars": 92295,
                 "topics": [
                   "data-science",
                   "education",
@@ -853,11 +853,11 @@
                 "id": 21515044,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-16T11:48:42Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-17T10:12:58Z",
+                "open_issues": 1,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30337,
+                "stars": 30343,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -910,7 +910,7 @@
                 "open_issues": 11,
                 "owner": "soulmachine",
                 "repo": "machine-learning-cheat-sheet",
-                "stars": 8045,
+                "stars": 8044,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:30.920Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 181,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 259016,
+                "stars": 259296,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:20:34.385Z",
+    "last_updated": "2026-11-17T22:12:46.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for MLOps ",
